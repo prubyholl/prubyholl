@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Peter
 - 👀 I am a Computer Science Lecturer and Technology Consultant interested in web, desktop, and mobile software development using .Net & Python
 - 💞️ I’m looking to collaborate on virtual, mixed, and augmented reality applications 
-- 📫 You can reach through prubyholl@gmail.com
+- 📫 You can reach me through prubyholl@gmail.com
