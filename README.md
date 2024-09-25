@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Peter
-- 👀 I am a Senior Lecturer in Software Engineering and a Technology Consultant interested in web, desktop, and mobile software development using .Net & Python
-- 💞️ I’m looking to collaborate on virtual, mixed, and augmented reality applications 
-- 📫 You can reach me through prubyholl@gmail.com
+- 👀 I am a Senior Full Stack Developer and a Technology Consultant interested in web, desktop, and mobile software development using .Net, Blazor, C# & Python
+- 📫 You can reach me through  pankomah@pkatechnologies.co.uk
