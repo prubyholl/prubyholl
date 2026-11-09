@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Peter
 - 👀 I am a Senior Full Stack Developer and a Technology Consultant interested in web, desktop, and mobile software development using .Net, Blazor, C# & Python
-- 📫 You can reach me through  pankomah@pkatechnologies.co.uk
+- 📫 You can reach me through pankomah@outlook.com
